@@ -1,12 +1,12 @@
 export const config = {
-  siteTitle: 'John Doe Portfolio',
-  description: 'Hi, I am John Doe, a passionate web developer and data analyst. I thrive on solving problems and building innovative solutions with modern technology.',
-  author: 'John Doe',
-  contactEmail: 'johndoe@example.com',
-  keywords: 'portfolio, business intelligence, data analysis, Power BI Reports, Software Engineer, Web Developer',
+  siteTitle: 'Juliano Ceconi - Portfólio',
+  description: 'Portfólio de Juliano Ceconi, gestor e desenvolvedor de automações com foco em otimização de processos e soluções inteligentes.',
+  author: 'Juliano Ceconi',
+  contactEmail: 'ceconilp@gmail.com',
+  keywords: 'portfólio, automação, Google Apps Script, Python, Excel, IA, gestão, desenvolvimento, processos, otimização',
   favicon: '/favicon.svg',
   social: {
-    linkedin: 'https://www.linkedin.com/in/johndoe/',
-    github: 'https://github.com/johndoe'
+    linkedin: 'https://www.linkedin.com/in/juliano-ceconi-8ba137121/',
+    github: 'https://github.com/vo-tech'
   }
 };

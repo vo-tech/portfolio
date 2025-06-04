@@ -1,25 +1,27 @@
 export const heroData = {
-  name: 'John Doe',
-  title: 'Full-Stack Developer',
-  description: 'I build scalable web applications and transform raw data into meaningful insights that drive business success.',
-  profilePicture: 'https://example.com/profilepic.jpg',
+  name: 'Juliano Ceconi',
+  title: 'Gestor e Desenvolvedor de Automações',
+  description: 'Ao longo da minha carreira, tive a oportunidade de mergulhar fundo em diversas áreas de negócio, desde gestão e finanças até operações, educação e programação, o que me deu uma visão única sobre como a tecnologia pode realmente fazer a diferença no dia a dia de um gestor.',
+  profilePicture: 'https://i.imgur.com/rBX9kSM.png',
   skills: [
-    'JavaScript',
-    'React',
-    'Node.js',
-    'SQL',
+    'Google Apps Script',
     'Python',
-    'Power BI',
-    'DAX',
-    'ETL',
-    'Data Modeling',
-    'API Development',
-    'Cloud Computing',
-    'Machine Learning'
+    'Excel',
+    'IA',
+    'Sheets API',
+    'Automação',
+    'Selenium',
+    'HTML/CSS',
+    'Validação de Dados',
+    'Treinamento',
+    'Fluxo de Caixa',
+    'Faturamento',
+    'Gestão de Parceiros',
+    'Twilio'
   ],
   contact: {
-    github: 'https://github.com/johndoe',
-    linkedin: 'https://www.linkedin.com/in/johndoe/',
-    email: 'johndoe@example.com'
+    github: 'https://github.com/vo-tech',
+    linkedin: 'https://www.linkedin.com/in/juliano-ceconi-8ba137121/',
+    email: 'ceconilp@gmail.com'
   }
 };

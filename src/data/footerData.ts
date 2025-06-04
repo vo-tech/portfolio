@@ -3,20 +3,19 @@ export const footerData = {
   socialLinks: [
     {
       name: 'GitHub',
-      url: 'https://github.com/johndoe',
+      url: 'https://github.com/vo-tech',
       icon: 'Github'
     },
     {
       name: 'LinkedIn',
-      url: 'https://www.linkedin.com/in/johndoe/',
+      url: 'https://www.linkedin.com/in/juliano-ceconi-8ba137121/',
       icon: 'Linkedin'
     },
     {
       name: 'Email',
-      url: 'mailto:johndoe@example.com',
+      url: 'mailto:ceconilp@gmail.com',
       icon: 'Mail'
     }
   ],
-  quote: '"Code is like humor. When you have to explain it, it’s bad."',
-  githubCodeLink: 'https://github.com/raulrls/Astro-Shadcn-portfolio'
+  quote: '"Transformando processos complexos em soluções inteligentes."',
 };
