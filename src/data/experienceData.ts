@@ -9,7 +9,7 @@ export const jobs: Job[] = [
   {
     title: "Head Financeiro e Desenvolvedor de Automações",
     company: "MedPless Assist",
-    dates: "Abril/2024 a Junho/2025",
+    dates: "Abril/24 a Junho/25",
     description: [
       "Liderei a modernização e automação de processos financeiros e de TI críticos na MedPless Assist, transformando operações manuais em sistemas eficientes e orientados por dados. Meu foco foi em otimizar o fluxo de trabalho, reduzir erros e liberar tempo da equipe para atividades de maior valor.",
       "Desenvolvimento de Sistema de Automação de NF em Python: Criei uma solução completa em Python para automatizar a emissão de notas fiscais, o que resultou em uma redução drástica no tempo de processamento manual e na minimização de erros humanos.",
@@ -29,7 +29,7 @@ export const jobs: Job[] = [
   {
     title: "Sócio-Administrador",
     company: "Clínica da Cidade | Unidade Barreiras",
-    dates: "Maio/2022 a Março/2024",
+    dates: "Maio/22 a Março/24",
     description: [
       "Liderei todas as operações desde a planta até a venda da unidade.",
       "Liderei uma equipe multidisciplinar, promovendo uma cultura de excelência e otimização de recursos.",
@@ -39,7 +39,7 @@ export const jobs: Job[] = [
   {
     title: "Coordenador Pedagógico, Financeiro e Professor",
     company: "Microlins",
-    dates: "Julho/2015 - Julho/2017",
+    dates: "Julho/15 a Julho/17",
     description: [
       "Controle de turmas, satisfação, PEF, Universidade Corporativa, contratações, treinamentos, ações, palestras.",
       "Fluxo de caixa, cobranças, contas a pagar.",
