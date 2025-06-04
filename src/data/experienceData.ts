@@ -7,29 +7,43 @@ export type Job = {
 
 export const jobs: Job[] = [
   {
-    title: "Data Analyst",
-    company: "Tech Solutions Inc.",
-    dates: "01/2019 - 12/2022",
+    title: "Head Financeiro e Desenvolvedor de Automações",
+    company: "MedPless Assist",
+    dates: "Abril/2024 a Junho/2025",
     description: [
-      "Developed interactive Power BI dashboards to analyze business performance and customer trends.",
-      "Automated ETL processes using Python and SQL to improve data processing efficiency by 40%.",
-      "Collaborated with stakeholders to identify key performance metrics and optimize reporting strategies.",
-      "Designed predictive models to forecast revenue and customer churn, providing actionable insights.",
-      "Managed data extraction from multiple sources, including APIs, databases, and cloud storage.",
-      "Presented analytical findings to executive teams, leading to data-driven decision-making."
+      "Liderei a modernização e automação de processos financeiros e de TI críticos na MedPless Assist, transformando operações manuais em sistemas eficientes e orientados por dados. Meu foco foi em otimizar o fluxo de trabalho, reduzir erros e liberar tempo da equipe para atividades de maior valor.",
+      "Desenvolvimento de Sistema de Automação de NF em Python: Criei uma solução completa em Python para automatizar a emissão de notas fiscais, o que resultou em uma redução drástica no tempo de processamento manual e na minimização de erros humanos.",
+      "Implementação de Sistema Financeiro Integrado em Google Sheets & Apps Script: Desenvolvi e implementei um robusto sistema financeiro utilizando Google Sheets e Google Apps Script. Este sistema incluía:",
+      "- Dashboards dinâmicos para visualização de dados em tempo real.",
+      "- Controle de fluxo de caixa e gestão de contas.",
+      "- Geração e envio automático de faturas em PDF por e-mail.",
+      "- Logs de atividades para auditoria e rastreabilidade.",
+      "- Envio automatizado de lembretes e notificações financeiras via WhatsApp (integrado com Twilio)",
+      "- Geração automática de DRE (Demonstração do Resultado do Exercício).",
+      "Capacitação da Equipe: Realizei treinamentos em Excel e Google Sheets para a equipe, melhorando suas habilidades em manipulação de dados e uso das novas ferramentas implementadas.",
+      "Relacionamento com cerca de 80 clínicas, laboratórios, hospitais e mais de 20 profissionais da área da saúde, assim como gestão de todos os faturamentos e repasses.",
+      "Criação de materiais de apoio em vídeo, doc, pdf.",
+      "Tecnologias e Habilidades Chave Aplicadas: Python, Google Apps Script, Google Sheets / Excel (Avançado), APIs, Automação de Processos (RPA), Análise Financeira, Design de Sistemas, Otimização de Fluxos de Trabalho, Treinamento de Equipes."
     ]
   },
   {
-    title: "Software Engineer",
-    company: "Innovatech Solutions",
-    dates: "03/2023 - Present",
+    title: "Sócio-Administrador",
+    company: "Clínica da Cidade | Unidade Barreiras",
+    dates: "Maio/2022 a Março/2024",
     description: [
-      "Developed full-stack web applications using React, Node.js, and MongoDB.",
-      "Implemented RESTful APIs and integrated third-party services for enhanced application functionality.",
-      "Optimized SQL queries and database schemas to improve system performance.",
-      "Led a team of junior developers, mentoring them on best practices in software engineering.",
-      "Designed and implemented CI/CD pipelines, reducing deployment time by 50%.",
-      "Collaborated with UX/UI designers to enhance the user experience of web applications."
+      "Liderei todas as operações desde a planta até a venda da unidade.",
+      "Liderei uma equipe multidisciplinar, promovendo uma cultura de excelência e otimização de recursos.",
+      "Cuidei sozinho de toda a parte financeira da abertura ao fechamento via excel."
+    ]
+  },
+  {
+    title: "Coordenador Pedagógico, Financeiro e Professor",
+    company: "Microlins",
+    dates: "Julho/2015 - Julho/2017",
+    description: [
+      "Controle de turmas, satisfação, PEF, Universidade Corporativa, contratações, treinamentos, ações, palestras.",
+      "Fluxo de caixa, cobranças, contas a pagar.",
+      "Aulas de informática e manutenção de computadores."
     ]
   }
 ];
