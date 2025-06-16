@@ -36,8 +36,9 @@ Mapear processos manuais em PMEs (financeiro, administrativo, marketing, etc.).
 Desenvolver e implementar soluções de automação usando Python, Google Apps Script, Selenium, Google Sheets, etc..
 Ex: Automatizar envio de NFs, relatórios financeiros, conciliação bancária, interações com sistemas web.
 ## Desenvolvimento de Ferramentas de Gestão Personalizadas
-Criar planilhas avançadas e dashboards em Google Sheets/Excel para controle financeiro, de estoque, de clientes, etc..
+Muitas PMEs pagam por sistemas robustos, mas usam apenas 10-20% de suas funcionalidades. Elas sentem que estão pagando por "excesso" de recursos que não precisam.
 Desenvolver pequenos sistemas internos ou interfaces com Google Apps Script e HTML/CSS  para facilitar tarefas específicas.
+Criar planilhas avançadas e dashboards em Google Sheets/Excel para controle financeiro, de estoque, de clientes, etc..
 ## Treinamentos e Workshops
 Capacitar equipes de PMEs em Excel/Google Sheets avançado, ou em como usar as ferramentas de automação que você desenvolveu. Você já tem experiência como professor.
 ## Consultoria para Otimização de Fluxos de Trabalho com Foco Tecnológico
@@ -72,17 +73,18 @@ Python, Google Apps Script, Google Sheets / Excel (Avançado), APIs, Automação
 Cargo: Sócio-Administrador
 Maio/2022 a Março/2024
 
-- Liderei todas as operações desde a planta até a venda da unidade.
-- Liderei uma equipe multidisciplinar, promovendo uma cultura de excelência e otimização de recursos.
-- Cuidei sozinho de toda a parte financeira da abertura ao fechamento via excel.
+- Gestão completa da operação desde a abertura à venda da unidade.
+- Gestão de uma equipe multidisciplinar, promovendo uma cultura de excelência e otimização de recursos.
+- Gestão completa de contas a receber e a pagar, DRE, DFC e projeções.
+- Gestão e relacionamento com clientes, médicos e outros profissionais da saúde.
 
-## Microlins
-Cargo: Coordenador Pedagógico, Financeiro e Professor
+## Microlins | Unidade Barreiras
+Cargo: Gerente de Operações | Microlins
 Julho/2015 - Julho/2017
 
-- Controle de turmas, satisfação, PEF, Universidade Corporativa, contratações, treinamentos, ações, palestras.
-- Fluxo de caixa, cobranças, contas a pagar.
-- Aulas de informática e manutenção de computadores.
+- Liderança da unidade, com responsabilidade direta sobre as equipes pedagógica e comercial, gestão financeira (fluxo de caixa, contas a pagar/receber) e ações de marketing e expansão.
+- Identificação e otimização de processos operacionais, com a criação de rotinas padronizadas que aumentaram a eficiência no controle de turmas e na gestão da satisfação dos alunos.
+- Responsável pelo ciclo completo de gestão de pessoas, desde o recrutamento e seleção até a capacitação das equipes por meio de treinamentos e palestras técnicas.
 
 
 # Educação
@@ -97,5 +99,6 @@ Ciência de Dados & RPA: Análise de Dados (Google Sheets), Power BI, ferramenta
 Integração com IA: ChatGPT com Excel & Google Apps Script para automação.
 
 ## UTFPR
-(Preríodo: agosto de 2010 - Dezembro de 2010)
-Matéria: Fundamentos de programação.
+(Preríodo: agosto de 2010 - Dezembro de 2014)
+Curso: Engenharia Civil (incompleto)
+Matérias concluídas em destaque: Fundamentos de programação, Cálculo I, II e III, Física I, II e III, Geometria Analítica, Álgebra Linear, Projeto Arquitetônico (CAD).
