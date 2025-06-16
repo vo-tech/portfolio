@@ -2,7 +2,7 @@ export const heroData = {
   name: 'Juliano Ceconi',
   title: 'Gestor e Desenvolvedor de Automações',
   description: 'Ao longo da minha carreira, tive a oportunidade de mergulhar fundo em diversas áreas de negócio, desde gestão e finanças até operações, educação e programação, o que me deu uma visão única sobre como a tecnologia pode realmente fazer a diferença no dia a dia de um gestor.',
-  profilePicture: 'https://i.imgur.com/eL7ibnR.png',
+  profilePicture: 'https://i.imgur.com/VZjuj6M.png',
   skills: [
     'Google Apps Script',
     'Python',
