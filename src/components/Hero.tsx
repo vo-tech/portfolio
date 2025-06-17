@@ -4,6 +4,14 @@ import { Badge } from './ui/badge';
 import { ArrowDown, Github, Linkedin, Mail } from 'lucide-react';
 import { heroData } from '../data/heroData';
 
+type Star = {
+  x: number;
+  y: number;
+  size: number;
+  opacity: number;
+  speed: number;
+};
+
 const Hero = () => {
   const canvasRef = useRef<HTMLCanvasElement>(null);
   const stars = useRef<Star[]>([]);
@@ -102,11 +110,14 @@ const Hero = () => {
         style={{ background: 'transparent' }}
       />
       <div className="relative z-10 flex min-h-screen flex-col items-center justify-center px-4 text-center">
-        <img
-          src={heroData.profilePicture}
-          alt={heroData.name}
-          className="mb-8 h-70 w-70 rounded-full border-4 border-primary object-cover shadow-lg"
-        />
+        <div className="mb-8 h-56 w-56 rounded-full border-4 border-primary shadow-lg overflow-hidden">
+          <img
+            src={heroData.profilePicture}
+            alt={heroData.name}
+            className="h-full w-full object-cover object-center"
+            style={{ transform: 'translate(2px, 1px) scale(1.20)' }}
+          />
+        </div>
         <h1 className="mb-4 text-4xl font-bold tracking-tight sm:text-6xl">
           {heroData.name}
         </h1>

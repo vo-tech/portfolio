@@ -18,9 +18,9 @@ export const education: Education[] = [
   },
   {
     institution: "UTFPR",
-    period: "(Preríodo: agosto de 2010 - Dezembro de 2010)",
+    period: "(Preríodo: agosto de 2010 - junho de 2015)",
     description: [
-      "Matéria: Fundamentos de programação."
+      "Incompleto. Matérias concluídas em destaque: cálculo diferencial e integral I, II e III, física I, II e III, química, fundamentos de programação, metodologia científica, probabilidade e estatística, topografia, desenho técnico, projeto arquitetônico, geometria analítica e álgebra linear."
     ]
   }
 ];

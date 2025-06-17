@@ -47,8 +47,8 @@ export const projects: Project[] = [
   {
     id: 3,
     title: "Treinamentos e Workshops",
-    summary: "Capacitar equipes de PMEs em Excel/Google Sheets avançado, ferramentas de automação e IA",
-    tags: ["Treinamento", "Excel", "Google Sheets", "Capacitação", "Automação", "IA", "Workshop"],
+    summary: "Capacitar equipes e profissionais em Excel/Google Sheets avançado, ferramentas de automação e Inteligência Artificial",
+    tags: ["Treinamento", "Excel", "Google Sheets", "Capacitação", "Automação", "IA", "Workshop", "RPA"],
     details: {
       challenge: "Equipes com lacunas de conhecimento em ferramentas essenciais ou nas novas soluções implementadas.",
       solution: "Treinamentos e workshops práticos para capacitar as equipes no uso de Excel/Google Sheets avançado e de ferramentas de automação.",
